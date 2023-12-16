@@ -1,11 +1,7 @@
 select *
 from bonuscheques b
 
-
-
-
 --Когортный анализ LTV
-
 
 with a as (
 select
